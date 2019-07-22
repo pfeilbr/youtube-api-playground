@@ -1,0 +1,1700 @@
+{
+	"config": {
+		"url": "https://www.googleapis.com/youtube/v3/search?channelId=UCd6MoB9NC6uYN2grvUNT-Zg&part=id%2Csnippet&order=date&maxResults=50&key=AIzaSyCObu4VnJFHgkGIuhAyxPwIg3i5B06cY6Q",
+		"method": "GET",
+		"headers": {
+			"Accept-Encoding": "gzip",
+			"User-Agent": "google-api-nodejs-client/2.0.4 (gzip)",
+			"Accept": "application/json"
+		},
+		"params": {
+			"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+			"part": "id,snippet",
+			"order": "date",
+			"maxResults": 50,
+			"key": "AIzaSyCObu4VnJFHgkGIuhAyxPwIg3i5B06cY6Q"
+		},
+		"retry": true,
+		"responseType": "json"
+	},
+	"data": {
+		"kind": "youtube#searchListResponse",
+		"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/4cqPcnU632yODufPSfNevd1G2nU\"",
+		"nextPageToken": "CDIQAA",
+		"regionCode": "US",
+		"pageInfo": {
+			"totalResults": 210523,
+			"resultsPerPage": 50
+		},
+		"items": [
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/rvXMM1eD8tkiRqygj3Rq9WWz4uQ\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "DEoJc911DBk"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-19T23:07:11.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "What’s New with AWS – Week of July 15, 2019",
+					"description": "In this new episode, join Jeff Barr to learn what's new with Amazon EventBridge, AWS Cloud Development Kit, Amazon Aurora PostgreSQL Serverless and more ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/DEoJc911DBk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/DEoJc911DBk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/DEoJc911DBk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Pp2bI0FjMGaUI6gAL9Q90bpmq0k\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "lecbHMBD8KQ"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-19T18:15:44.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Kaleido: Blockchain Cloud at AWS Speed",
+					"description": "In this episode of This Is My Architecture - https://amzn.to/2Gxovkr, learn how to leverage Kaleido and AWS Services to build a blockchain business network.",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/lecbHMBD8KQ/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/lecbHMBD8KQ/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/lecbHMBD8KQ/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/bTzIn_6SOU3gQixmfgZne-4Gk_k\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "2YTIDtsjn4Q"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-19T15:30:00.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS Builder Space @ Floor28",
+					"description": "Housed within Floor28 - https://amzn.to/2LvtpSL, a purpose-built space by AWS for the Israeli technology community, is Builder Space. Launched in 2018, it is ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/2YTIDtsjn4Q/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/2YTIDtsjn4Q/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/2YTIDtsjn4Q/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/5Sh0VZLlN-KWfjL9n7CNltBdSD8\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "Ri8BVRNCrRQ"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-19T15:00:04.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How to Set up an Amazon Chime Account for Your Organization",
+					"description": "Creating an Amazon Chime account is easy, and can be done in just a few steps in the AWS Console. This video walks you through how to do so, and how to ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/Ri8BVRNCrRQ/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/Ri8BVRNCrRQ/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/Ri8BVRNCrRQ/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/l7bRIyZJSgjWDUI_3BRIXf9kdX8\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "5n3arQSzo6g"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T23:14:56.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Build with Amazon Sumerian: Using the Sumerian Product Configurator",
+					"description": "Join the Amazon Sumerian team as we look at real-world, enterprise applications and how to build them. In this episode, we welcome back Jeremiah Habets, ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/5n3arQSzo6g/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/5n3arQSzo6g/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/5n3arQSzo6g/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/tSLl2clz0zNdl_hY2QXhytZvbAA\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "ZLx9miuoLkw"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T19:58:24.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Universidad Nacional de Colombia (UNAL) y AWS",
+					"description": "",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/ZLx9miuoLkw/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/ZLx9miuoLkw/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/ZLx9miuoLkw/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/ZaoneJ9DqiQRKJ2rIVRHKGyAjE4\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "9J-RSNibK4s"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T18:12:29.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Next Generation Intelligent Data Lakes, Powered by GraphQL (MAD309)",
+					"description": "GraphQL is a query language for APIs and a runtime to fulfill these queries, allowing applications to easily connect and access data stored on any type of ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/9J-RSNibK4s/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/9J-RSNibK4s/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/9J-RSNibK4s/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/QzXAyTtNpUGxdjmqgWYiUPE_-fk\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "V41CaehziJk"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T18:06:01.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Network Visibility into the Traffic Traversing Infrastructure (SVC213)",
+					"description": "Having visibility into the Amazon VPC infrastructure is a foundational element that any cloud administrator needs to maintain and operate an AWS infrastructure ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/V41CaehziJk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/V41CaehziJk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/V41CaehziJk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/neajnZFFoHWQFvoRKLcnWt1hptc\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "45tj68MFSCI"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T18:04:58.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Why Is Everyone Building Event-Driven Architectures? (MAD205)",
+					"description": "Companies are increasingly opting to build applications using event-driven architectures, that is, architectures in which actions are triggered in response to ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/45tj68MFSCI/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/45tj68MFSCI/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/45tj68MFSCI/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/dcOsPHRjOnHey-KYFBJTiViI4ag\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "BjJuZOkEjxQ"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:50:50.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Building Home Security Solutions at Scale, Ft. Comcast (SVC206)",
+					"description": "IoT applications are rapidly becoming more intelligent, especially when it comes to home security solutions such as entry sensors, motion detectors, home ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/BjJuZOkEjxQ/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/BjJuZOkEjxQ/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/BjJuZOkEjxQ/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/4sg15bQG-2iSwSute6PYY1OxcsQ\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "5iE1usY4_qU"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:50:45.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Amazon Connect for IT Support: Johnson &amp; Johnson Case Study (SVC201)",
+					"description": "Johnson & Johnson partnered with Atos Digital Workplace to drive personalization and automation around their IT help desk by using Amazon Connect. Join us ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/5iE1usY4_qU/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/5iE1usY4_qU/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/5iE1usY4_qU/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/CmCwZBSSxBXgFHhjGqNAM_ZjhEQ\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "70zvdxE1DPk"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:31:26.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: How Millennium Management Achieves Provable Security (FSV301)",
+					"description": "Data exfiltration is a key concern for financial institutions, which often store personally identifiable information, payment card information, and proprietary ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/70zvdxE1DPk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/70zvdxE1DPk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/70zvdxE1DPk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/3D0MU39fI0iqYSzTna4XI9U63fI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "Pj4_RETnShc"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:31:40.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Using ML to Detect &amp; Prevent Fraud (FSV302)",
+					"description": "Based on NuData Security's experience analyzing internet traffic, the company estimates that more than half is fake, which translates into significant fraudulent ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/Pj4_RETnShc/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/Pj4_RETnShc/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/Pj4_RETnShc/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/q5xyZvrw438vMDaIdD7fl1M_zpI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "Tqw9HRaHfUs"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:31:19.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: Building ML Platforms in Financial Services with Serverless (FSV202)",
+					"description": "Financial institutions are burdened with the costs and inaccuracies of storing information on paper or in unconnected legacy IT systems. It's challenging to extract ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/Tqw9HRaHfUs/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/Tqw9HRaHfUs/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/Tqw9HRaHfUs/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Qug4GHZeadmJs7bIVnbjf89jBHQ\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "ASgyVDfdCiI"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T17:32:15.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS New York Summit 2019: How Nubank Built the Bank of the Future (FSV201)",
+					"description": "Nubank, Latin America's first (and largest) cloud-native bank, has relied on AWS since day one. Operating in the cloud allows Nubank's developers to create ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/ASgyVDfdCiI/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/ASgyVDfdCiI/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/ASgyVDfdCiI/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/qyDomM7PqX4igek9DhkpU_fGdz0\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "Hg2d-juKKd4"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T16:56:46.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS Global Summit New York 2019 Keynote – Steve Randich, FINRA",
+					"description": "Learn more about AWS Customer Success at - https://amzn.to/2XH7jn0. FINRA, the Financial Industry Regulatory Authority, uses AWS to help it monitor and ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/Hg2d-juKKd4/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/Hg2d-juKKd4/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/Hg2d-juKKd4/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/W3QI8vntn71gp-FLHt3YwietC4o\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "2OUifNvStKE"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T16:00:00.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Staying Positive in an Unfunded Startup [Enigma]",
+					"description": "To attend one of our AWS Loft events, visit us at one of our many locations: https://amzn.to/2SrNoTi Hicham Oudghiri, Co-founder & CEO of Enigma – a fintech ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/2OUifNvStKE/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/2OUifNvStKE/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/2OUifNvStKE/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/ah3tC9zlVsqb1U3uFedZcN8AyPk\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "0l3RwYjThcI"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T14:14:13.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Empresa para la Seguridad Urbana (ESU) y AWS",
+					"description": "ESU logra mejorar la percepción de seguridad de los ciudadanos con la ayuda de AWS. La Empresa de Seguridad Urbana (ESU) es una empresa colombiana ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/0l3RwYjThcI/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/0l3RwYjThcI/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/0l3RwYjThcI/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/XzuY_Jr2JVC-qnsgNxyCk6B3vE4\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "pHQX-nJnrt8"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-18T04:38:10.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Munich University of Applied Sciences Launches Digital Transformation Lab",
+					"description": "Munich University of Applied Sciences (MUAS) built the M:UniverCity innovation network to address public sector challenges in the Munich metropolitan area ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/pHQX-nJnrt8/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/pHQX-nJnrt8/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/pHQX-nJnrt8/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Tiyp2Ya7oz9XDmr3TOVCQHKRXoo\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "T5IfHjBqewk"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-17T20:19:22.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Design, Deploy, and Optimize Microsoft SQL Server on AWS",
+					"description": "In this session, we dive deep on best practices and design considerations for running Microsoft SQL Server on AWS. We cover how to choose between running ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/T5IfHjBqewk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/T5IfHjBqewk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/T5IfHjBqewk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/qkceYNDK9Rj18PFjbvLWNWrhYr8\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "t97VJtPAL2s"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-17T17:20:41.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How do I resolve the error Container killed by YARN for exceeding memory limits in Spark on EMR?",
+					"description": "Find more details in the AWS Knowledge Center: https://amzn.to/2Zutjii Poonam, an AWS Cloud Support Engineer, shows you how to resolve the error Container ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/t97VJtPAL2s/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/t97VJtPAL2s/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/t97VJtPAL2s/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/-y6xd8kWeFNAI6o-e5H1XeqUDx4\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "uda9s3U7vFw"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-17T15:00:13.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Tooso: How to Build a Serverless Pipeline for Data Ingestion and Pre-Processing [Italian]",
+					"description": "In this episode of This Is My Architecture - https://amzn.to/2XLZFrt, Luca Bigon from Tooso shows us how they manage data ingestion inside their semantic ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/uda9s3U7vFw/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/uda9s3U7vFw/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/uda9s3U7vFw/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/YQIHmclybWfV7uuEpSUl3DePID4\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "s8bQS7mHk9s"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-17T13:08:47.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "2019 AWS Public Sector Summit Ottawa Keynote",
+					"description": "Watch Glenn Gore, Chief Architect at AWS, share the latest on AWS solutions and trends impacting cloud computing. Also taking the stage Government of ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/s8bQS7mHk9s/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/s8bQS7mHk9s/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/s8bQS7mHk9s/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/clN-v-FeJJQ-hrUWoFjwy477Bio\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "HYydZ5JLtQo"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-16T16:56:07.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How can I automatically start an AWS Glue job when a crawler run completes?",
+					"description": "Find more details in the AWS Knowledge Center: https://amzn.to/2DlJqoV Aditya, an AWS Cloud Support Engineer, shows you how to automatically start an ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/HYydZ5JLtQo/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/HYydZ5JLtQo/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/HYydZ5JLtQo/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/S5huDnXQxpdqy82Cj6ZsG2bKans\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "mDcaMSbyzeM"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-15T21:53:41.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS mLogica Game Changing Legacy to Cloud Modernization",
+					"description": "Learn more about Amazon Aurora at - https://amzn.to/2LpD6Cb. Move away from legacy commercial databases or niche database solutions to AWS using ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/mDcaMSbyzeM/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/mDcaMSbyzeM/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/mDcaMSbyzeM/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/RQVo0VqddjIRwgwUgANftUJ5EOI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "Y4TvhnrXCeM"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-15T21:45:58.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How StoryFit Makes Revenue-Impacting Predictions Using Automated Machine Learning",
+					"description": "Learn more about AWS Partner Webinars at - https://amzn.to/32rQP0L. StoryFit quickly built and deployed machine learning models, made more accurate ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/Y4TvhnrXCeM/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/Y4TvhnrXCeM/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/Y4TvhnrXCeM/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/DpC7AxmUQBhMxhOqopsy4A1pziI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "rfhxND4cye0"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-14T16:00:08.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How to Build Web &amp; Mobile Applications Using AWS AppSync &amp; AWS Amplify",
+					"description": "Learn more about Serverless Web & Mobile Apps on AWS at - https://amzn.to/2YTYRNP. Have you ever started working on a web or mobile application but then ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/rfhxND4cye0/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/rfhxND4cye0/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/rfhxND4cye0/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/vPLJTmwjFnTVdKIU4GvHrsPxYig\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "02gnMsPNrhc"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T21:10:21.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "AWS Training and Certification : Certification SME Program",
+					"description": "Learn more about the AWS Certification Subject Matter Expert (SME) Program! In an Exam Development workshop, SMEs described their experience with the ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/02gnMsPNrhc/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/02gnMsPNrhc/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/02gnMsPNrhc/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/HgEngBZHM-JO-o5caLwZAeFmOws\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "SZVZTUufGMY"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T20:11:37.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Draining the Data Swamp for Healthcare",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at - https://amzn.to/2LRncjB or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/SZVZTUufGMY/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/SZVZTUufGMY/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/SZVZTUufGMY/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/uTO99mYAm6Px-gE9Ml_zRn7sAu0\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "gO40hxB5_SE"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T20:09:23.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Accelerating the Healthcare Industry to Value-based Reimbursement",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at - https://amzn.to/2JDwL2W or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/gO40hxB5_SE/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/gO40hxB5_SE/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/gO40hxB5_SE/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/Y1-f0vcMLkNPV1YPGX2VqC9hvUI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "XDFXobO_SWA"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T20:07:18.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Bringing the Power of a Platform to More Than 3,000 US Hospitals",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at - https://amzn.to/2LSimlZ or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/XDFXobO_SWA/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/XDFXobO_SWA/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/XDFXobO_SWA/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/oqMebWALs1BV5w21zR8gm5HixjM\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "5FF6mm4sI0E"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T20:05:56.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Electronic Phenotyping at Scale: Augmenting Critical Human Activities for Value Based Care Processes",
+					"description": "We hope that you enjoyed hearing from industry leaders about how they are working to expedite therapy development, incorporate digital therapeutics at scale, ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/5FF6mm4sI0E/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/5FF6mm4sI0E/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/5FF6mm4sI0E/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/eqiBaLdl_EQgn2J6vyBxlsjuAWU\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "1wbcsNEWwxc"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T17:49:19.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Modernize Your SQL Server Environment with VMware Cloud on AWS",
+					"description": "Learn about migrating and running SQL Server database on VMware Cloud on AWS - https://amzn.to/2YSvAmu and see demonstrations on how to architect and ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/1wbcsNEWwxc/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/1wbcsNEWwxc/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/1wbcsNEWwxc/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/EaaAnV6vpmCafVu6EGNo5R6Fce8\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "iwDNnyiD26M"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-12T17:19:10.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Cedrus: Migrating a Legacy Application to a Serverless Ecosystem",
+					"description": "In this episode of This Is My Architecture - https://amzn.to/30yaASm, Matt and Bradley walk us through the migration of the ABCL's legacy Visual Basic and ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/iwDNnyiD26M/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/iwDNnyiD26M/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/iwDNnyiD26M/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/3TiAJbDqWTO97OWZlQdwKv6tI2o\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "qBNnQfe08nU"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T19:04:34.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "My Job Glasses Helps Students Land Their Dream Jobs",
+					"description": "Learn more about AWS Startups at – https://amzn.to/2XKlwL8 French networking platform My Job Glasses works with universities to connect students and ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/qBNnQfe08nU/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/qBNnQfe08nU/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/qBNnQfe08nU/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/y2ZlV-AXco3kBT93t1BT-jYTYmU\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "555SvbWRu2E"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T19:04:34.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Optimizing Workplace Occupancy Logistics with Jooxter",
+					"description": "Learn more about AWS Startups at – https://amzn.to/30uo95k French startup Jooxter uses intelligent sensors to collect occupancy data in workplaces, making ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/555SvbWRu2E/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/555SvbWRu2E/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/555SvbWRu2E/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/MeAaW-yecD4ilD-9LxW21mvzINo\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "8WLXAOo857M"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T19:04:34.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "EdTech Startup Katacoda Hones Developer Skills",
+					"description": "Learn more about AWS Startups at – https://amzn.to/2NQDLyH Ben Hall, founder of developer edtech startup Katacoda, shares how the interactive learning ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/8WLXAOo857M/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/8WLXAOo857M/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/8WLXAOo857M/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/matdDkckRqMndK5Mv21usjwVP4I\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "HuqkMxejvr8"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T18:25:53.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Kumparan Enjoys Rapid Scale and Time to Market with AWS",
+					"description": "Learn how you can leverage Amazon Elastic Kubernetes Services (https://amzn.to/30vf6kS) and Amazon CloudFront https://amzn.to/2ScojeF for your business.",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/HuqkMxejvr8/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/HuqkMxejvr8/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/HuqkMxejvr8/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/5DxK-3Pkzk6hWIDrz-eAEdAt2aY\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "LTlZ78mtgw4"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:28.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "How to Make Voice Technology Successful for Medical Documentation: 3 Key Lessons",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/2XTFQ0x or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/LTlZ78mtgw4/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/LTlZ78mtgw4/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/LTlZ78mtgw4/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/8SWyWoSEq5g-l0ynhGQgj7iW_J8\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "iUKVbLq7c7A"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:32.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Advancing Therapeutic R&amp;D with Machine Learning",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/2YMU5kW or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/iUKVbLq7c7A/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/iUKVbLq7c7A/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/iUKVbLq7c7A/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/R1c4L1cFlqoohC_MePvXWseIt6M\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "frCLrPBGFvY"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:34.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "The Only Path to Precision Medicine: Millions of Genomes and AI",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/2XEbYGf or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/frCLrPBGFvY/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/frCLrPBGFvY/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/frCLrPBGFvY/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/zCHx9xsLUrbf7ScYRMu1VTHce_A\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "4MIktyZVzw0"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:33.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Targeting Tumor Mutations for Personalized Cancer Immunotherapy",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/30sSJfE or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/4MIktyZVzw0/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/4MIktyZVzw0/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/4MIktyZVzw0/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/M-KQjKnsPOuxrVXs512DJ2yjUvM\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "6_71O87DjSk"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:29.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Voice and the Future of Precision Care",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/32kR0uT or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/6_71O87DjSk/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/6_71O87DjSk/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/6_71O87DjSk/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/D3P4qw8MjtXGk0mYWtasWCz-3iM\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "ZIxnLS2hfbs"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:34.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Uncovering the Deep Origin of Infectious Disease with Genomics and AI",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/2NL1TCU or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/ZIxnLS2hfbs/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/ZIxnLS2hfbs/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/ZIxnLS2hfbs/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/elzP_EoJ3pLe8ZqDYN8cdJrcGok\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "4HG6oDBJXfA"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T16:21:29.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Your Health Speaks: Vocal Biomarkers and the Potential for Direct Measures of Health from Voice",
+					"description": "For more information on other ways AWS can help your healthcare and life sciences organization, visit us at: https://amzn.to/2XYwIrB or contact the team at: ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/4HG6oDBJXfA/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/4HG6oDBJXfA/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/4HG6oDBJXfA/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/PFZG5eJUxA_SBCkw7sWl1wXWXqI\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "weOCV6yRTOY"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-11T07:00:05.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Now Go Build with Werner Vogels Ep 4 - Berlin",
+					"description": "Start building on AWS https://amzn.to/2G46HNs today! Amazon CTO and VP, Werner Vogels travels to Berlin, Germany to meet with the founders of the ReDI ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/weOCV6yRTOY/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/weOCV6yRTOY/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/weOCV6yRTOY/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/85FjtoAj-CzcdrSU9491bQTstCk\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "PoYiSKUy8sE"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-10T20:10:53.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Alert Logic: Scaling Storage and Delivery of Petabytes of Search Data",
+					"description": "In this episode of This is My Architecture - https://amzn.to/2JAqGUZ, Alert Logic shares the architecture behind their search solution. They have 25 PB of data ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/PoYiSKUy8sE/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/PoYiSKUy8sE/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/PoYiSKUy8sE/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/tH0r7SI_-Ph70WSRIYHVJsdTRdU\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "eR6Yp3OSrkY"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-10T19:26:48.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Move off Oracle and Onto Amazon Web Services (AWS) with Clckwrk",
+					"description": "Learn more about Amazon Aurora at – https://amzn.to/2S7zgyk When you migrate your databases and applications off Oracle to Amazon Aurora, you can take ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/eR6Yp3OSrkY/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/eR6Yp3OSrkY/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/eR6Yp3OSrkY/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/9Du9yw_WuZXXDUIqlTCK6yzYs24\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "z7dhoTNOCVw"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-10T19:15:26.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Eliminate Database Lock-In and Achieve Database Freedom with TekStream and AWS",
+					"description": "Learn more about Amazon Aurora at – https://amzn.to/2LeybUM Modernize your databases and applications by migrating to Amazon Aurora. Take advantage of ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/z7dhoTNOCVw/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/z7dhoTNOCVw/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/z7dhoTNOCVw/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			},
+			{
+				"kind": "youtube#searchResult",
+				"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/gd1ashamtbJ4qm-BqThyq3BYNRs\"",
+				"id": {
+					"kind": "youtube#video",
+					"videoId": "HO8MB2i4Tqg"
+				},
+				"snippet": {
+					"publishedAt": "2019-07-10T18:08:22.000Z",
+					"channelId": "UCd6MoB9NC6uYN2grvUNT-Zg",
+					"title": "Harnessing the Power of Payments on the Blockchain [Ripple + Keybase + Stronghold]",
+					"description": "To attend one of our AWS Loft events, visit us at one of our many locations - https://amzn.to/32jNLDS. There's no shortage of ways to move cash from one place ...",
+					"thumbnails": {
+						"default": {
+							"url": "https://i.ytimg.com/vi/HO8MB2i4Tqg/default.jpg",
+							"width": 120,
+							"height": 90
+						},
+						"medium": {
+							"url": "https://i.ytimg.com/vi/HO8MB2i4Tqg/mqdefault.jpg",
+							"width": 320,
+							"height": 180
+						},
+						"high": {
+							"url": "https://i.ytimg.com/vi/HO8MB2i4Tqg/hqdefault.jpg",
+							"width": 480,
+							"height": 360
+						}
+					},
+					"channelTitle": "Amazon Web Services",
+					"liveBroadcastContent": "none"
+				}
+			}
+		]
+	},
+	"headers": {
+		"alt-svc": "quic=\":443\"; ma=2592000; v=\"46,43,39\"",
+		"cache-control": "private, max-age=120, must-revalidate, no-transform",
+		"connection": "close",
+		"content-encoding": "gzip",
+		"content-type": "application/json; charset=UTF-8",
+		"date": "Mon, 22 Jul 2019 00:00:13 GMT",
+		"etag": "\"Bdx4f4ps3xCOOo1WZ91nTLkRZ_c/4cqPcnU632yODufPSfNevd1G2nU\"",
+		"expires": "Mon, 22 Jul 2019 00:00:13 GMT",
+		"server": "GSE",
+		"transfer-encoding": "chunked",
+		"vary": "Origin, X-Origin",
+		"x-content-type-options": "nosniff",
+		"x-frame-options": "SAMEORIGIN",
+		"x-xss-protection": "1; mode=block"
+	},
+	"status": 200,
+	"statusText": "OK"
+}
